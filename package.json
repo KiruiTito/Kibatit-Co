@@ -13,7 +13,7 @@
     "compress:css": "sass css/style.prefix.css css/style.min.css --style compressed",
     "build:css": "npm-run-all compile:sass prefix:css compress:css liveserver"
   },
-  "author": "d3vd3511gn",
+  "author": "tiitokirui",
   "license": "ISC",
   "devDependencies": {
     "autoprefixer": "^10.4.7",
